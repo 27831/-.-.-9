@@ -7,4 +7,6 @@
 
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
-price = int(input())
+price = int(input("ราคา: "))
+print
+if price 
