@@ -6,4 +6,9 @@
 
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
-age = int(input())
+age = int(input("อายุ": ))
+print:
+if
+age => 18 Eligible
+else
+age =< 18 Not Eligible
